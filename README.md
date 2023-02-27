@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://i.imgur.com/aq7snyV.png"/>
+</p>
+
+
 <h1>Building Intuition for DNS</h1>
 This tutorial outlines examples of working with DNS.<br />
 
